@@ -1,0 +1,29 @@
+{
+  "name": "net-sample",
+  "version": "0.0.1",
+  "description": "just a demo of a tcp server",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xincici/net-sample.git"
+  },
+  "keywords": [
+    "nodejs",
+    "net"
+  ],
+  "author": "xincici",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xincici/net-sample/issues"
+  },
+  "homepage": "https://github.com/xincici/net-sample#readme",
+  "dependencies": {
+    "moment": "^2.22.0"
+  }
+}
