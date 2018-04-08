@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/xincici/net-sample#readme",
   "dependencies": {
+    "chalk": "^2.3.2",
     "moment": "^2.22.0"
   }
 }
