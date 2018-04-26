@@ -6,3 +6,10 @@ just a demo of a tcp server
 yarn install
 node index.js
 ```
+
+open some teminal tabs and type for test
+
+```shell
+telnet 127.0.0.1 9999
+```
+
