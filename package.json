@@ -1,15 +1,16 @@
 {
   "name": "net-sample",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "just a demo of a tcp server",
-  "main": "index.js",
+  "main": "index.mjs",
+  "module": "index.mjs",
   "directories": {
     "lib": "lib"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon ./index.js",
-    "start": "node index.js"
+    "dev": "nodemon ./index.mjs",
+    "start": "node index.mjs"
   },
   "repository": {
     "type": "git",
@@ -26,8 +27,8 @@
   },
   "homepage": "https://github.com/xincici/net-sample#readme",
   "dependencies": {
-    "chalk": "^2.3.2",
-    "moment": "^2.22.0"
+    "chalk": "^5.4.1",
+    "moment": "^2.30.1"
   },
   "devDependencies": {
     "nodemon": "^1.18.3"
