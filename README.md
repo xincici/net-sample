@@ -4,7 +4,7 @@ just a demo of a tcp server
 
 ```shell
 yarn install
-node index.js
+yarn start
 ```
 
 open some teminal tabs and type for test
