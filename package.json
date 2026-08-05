@@ -10,7 +10,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon ./index.mjs",
-    "start": "node index.mjs"
+    "start": "node index.mjs",
+    "client": "node client.mjs"
   },
   "repository": {
     "type": "git",
